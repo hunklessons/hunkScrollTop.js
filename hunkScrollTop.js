@@ -7,7 +7,7 @@
 (function($){
 	$.fn.hunkScrollTop = function(speed){
 		//check speed is defined or not
-		if(speed == undefined){
+		if(speed == null){
 			speed = 'slow';
 		}else{
 			if(isNaN(speed)){
@@ -18,7 +18,7 @@
 			}
 		}
 		//create a scroll div
-		var div = '<div id="hunkScrollTop" contextmenu="hunkmenu"></div>';
+		var div = '<div id="hunkScrollTop"></div>';
 		var css = {
 			 'display': 'none',
 			 'background': 'url(https://googledrive.com/host/0B7XFDKT_0Oz4UVQzUjNOY3ZwdGM/scrolltop.png) no-repeat 50%',
