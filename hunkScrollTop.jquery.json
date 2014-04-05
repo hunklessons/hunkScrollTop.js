@@ -24,8 +24,12 @@
     "homepage": "http://hunklessons.blogspot.in/2014/03/hunkscrolltopjs-jquery-plugin-by-husain.html",
     "docs": "https://github.com/hunklessons/hunkScrollTop.js",
     "demo": "http://live.hunklessons.tk/hunkScrollTop-jquery-scroolToTop-plugin-by-husain-saify/",
-    "download": "http://code.jquery.com/#color",
+    "download": "http://download.hunklessons.tk/?url=http://app.box.com/s/02064p8515hv7vjhesb4",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.3"
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d3096b77b7c7b23b313a418ea9d5be27501ac2fc
