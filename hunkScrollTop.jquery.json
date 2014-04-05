@@ -1,0 +1,31 @@
+{
+	"name": "hunkScrollTop",
+	"title": "hunkScrollTop.js a jQuery plugin by husain saify",
+	"descriptio": "hunkScrollTop.js a jQuery plugin for easy scrollToTop button",
+	"keywords": [
+		"hunkScrollTop",
+		"scrolltotop",
+		"scrolltop",
+		"hunklessons",
+		"hunk"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Husain saify (hunklessons)",
+		"url": "http://hunklessons.blogspot.in/"
+	},
+	"licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/hunklessons/hunkScrollTop.js/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/hunklessons/hunkScrollTop.js/issues",
+    "homepage": "http://hunklessons.blogspot.in/2014/03/hunkscrolltopjs-jquery-plugin-by-husain.html",
+    "docs": "https://github.com/hunklessons/hunkScrollTop.js",
+    "demo": "http://live.hunklessons.tk/hunkScrollTop-jquery-scroolToTop-plugin-by-husain-saify/",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
